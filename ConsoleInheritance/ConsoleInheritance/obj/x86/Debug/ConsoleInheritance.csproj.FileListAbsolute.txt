@@ -1,0 +1,5 @@
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\ConsoleInheritance\ConsoleInheritance\bin\Debug\ConsoleInheritance.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\ConsoleInheritance\ConsoleInheritance\bin\Debug\ConsoleInheritance.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\ConsoleInheritance\ConsoleInheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\ConsoleInheritance\ConsoleInheritance\obj\x86\Debug\ConsoleInheritance.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\ConsoleInheritance\ConsoleInheritance\obj\x86\Debug\ConsoleInheritance.pdb

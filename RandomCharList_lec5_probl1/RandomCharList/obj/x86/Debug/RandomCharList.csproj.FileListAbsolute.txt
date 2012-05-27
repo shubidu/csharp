@@ -1,0 +1,7 @@
+C:\Users\Student\AppData\Local\Temporary Projects\RandomCharList\bin\Debug\RandomCharList.exe
+C:\Users\Student\AppData\Local\Temporary Projects\RandomCharList\bin\Debug\RandomCharList.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\RandomCharList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\RandomCharList\obj\x86\Debug\RandomCharList.exe
+C:\Users\Student\AppData\Local\Temporary Projects\RandomCharList\obj\x86\Debug\RandomCharList.pdb
+C:\lang\RandomCharList_lec5_probl1\RandomCharList\obj\x86\Debug\RandomCharList.exe
+C:\lang\RandomCharList_lec5_probl1\RandomCharList\obj\x86\Debug\RandomCharList.pdb

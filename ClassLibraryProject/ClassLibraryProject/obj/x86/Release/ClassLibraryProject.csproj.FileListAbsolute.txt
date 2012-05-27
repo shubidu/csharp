@@ -1,0 +1,5 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\ClassLibraryProject\bin\Release\ClassLibraryProject.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\ClassLibraryProject\bin\Release\ClassLibraryProject.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\ClassLibraryProject\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\ClassLibraryProject\obj\x86\Release\ClassLibraryProject.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\ClassLibraryProject\obj\x86\Release\ClassLibraryProject.pdb

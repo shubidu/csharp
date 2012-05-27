@@ -1,0 +1,5 @@
+C:\Users\Student\documents\visual studio 2010\Projects\LinqProgram2\LinqProgram2\bin\Debug\LinqProgram2.exe
+C:\Users\Student\documents\visual studio 2010\Projects\LinqProgram2\LinqProgram2\bin\Debug\LinqProgram2.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\LinqProgram2\LinqProgram2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2010\Projects\LinqProgram2\LinqProgram2\obj\x86\Debug\LinqProgram2.exe
+C:\Users\Student\documents\visual studio 2010\Projects\LinqProgram2\LinqProgram2\obj\x86\Debug\LinqProgram2.pdb

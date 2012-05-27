@@ -1,0 +1,7 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\bin\Debug\RidingBicycles.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\bin\Debug\RidingBicycles.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\bin\Debug\ClassLibraryProject.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\bin\Debug\ClassLibraryProject.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\obj\x86\Debug\RidingBicycles.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\ClassLibraryProject\RidingBicycles\obj\x86\Debug\RidingBicycles.pdb

@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\PROJECT\LinqApp\LinqApp\bin\Debug\LinqApp.exe.config
+C:\Users\Student\Desktop\PROJECT\LinqApp\LinqApp\bin\Debug\LinqApp.exe
+C:\Users\Student\Desktop\PROJECT\LinqApp\LinqApp\bin\Debug\LinqApp.pdb
+C:\Users\Student\Desktop\PROJECT\LinqApp\LinqApp\obj\Debug\LinqApp.exe
+C:\Users\Student\Desktop\PROJECT\LinqApp\LinqApp\obj\Debug\LinqApp.pdb

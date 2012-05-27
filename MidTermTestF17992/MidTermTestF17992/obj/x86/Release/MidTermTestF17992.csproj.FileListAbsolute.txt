@@ -1,0 +1,12 @@
+C:\Users\Student\AppData\Local\Temporary Projects\MidTermTestF17992\bin\Release\MidTermTestF17992.exe
+C:\Users\Student\AppData\Local\Temporary Projects\MidTermTestF17992\bin\Release\MidTermTestF17992.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\MidTermTestF17992\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.exe
+C:\Users\Student\AppData\Local\Temporary Projects\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.pdb
+C:\langs\dotnet\MidTermTestF17992\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.exe
+C:\langs\dotnet\MidTermTestF17992\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.pdb
+C:\langs\dotnet\MidTermTestF17992\MidTermTestF17992\bin\Release\MidTermTestF17992.exe
+C:\langs\dotnet\MidTermTestF17992\MidTermTestF17992\bin\Release\MidTermTestF17992.pdb
+C:\langs\dotnet\MidTermTestF17992\MidTermTestF17992\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\antlerion\Desktop\MidTermTestF17992\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.exe
+C:\Users\antlerion\Desktop\MidTermTestF17992\MidTermTestF17992\obj\x86\Release\MidTermTestF17992.pdb

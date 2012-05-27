@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SampleForm">
+</Property><Property Name="Solution File" Value="C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\SampleForm.sln">
+</Property><Property Name="User Options File" Value="C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\SampleForm.suo">
+</Property><Property Name="Date" Value="13 май 2012 г.">
+</Property><Property Name="Time" Value="23:44 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SampleForm.sln" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SampleForm.suo" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm.suo">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\SampleForm.csproj" Description="Project file successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\SampleForm.csproj">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\SampleForm.csproj.user" Description="Project user file successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\SampleForm.csproj.user">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\LoginControl.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\LoginControl.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\LoginControl.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\LoginControl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\LoginEventArgs.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\LoginEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\Properties\Settings.settings" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\LoginControl.resx" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\LoginControl.resx">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\Properties\Resources.resx" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleForm\Backup\SampleForm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\SampleForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SampleForm" Source="SampleForm\SampleForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SampleForm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SampleForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SampleForm" Source="SampleForm\SampleForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

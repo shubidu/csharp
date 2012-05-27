@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\bin\Release\UserControlDemo.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\bin\Release\UserControlDemo.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\bin\Release\SampleForm.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\bin\Release\SampleForm.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\UserControlDemo.Demo.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\UserControlDemo.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\UserControlDemo.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\UserControlDemo.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\UserControlDemo\UserControlDemo\obj\Release\UserControlDemo.pdb

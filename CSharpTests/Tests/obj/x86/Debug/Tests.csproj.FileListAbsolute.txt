@@ -1,0 +1,5 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\CSharpTests\Tests\bin\Debug\Tests.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\CSharpTests\Tests\bin\Debug\Tests.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\CSharpTests\Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\CSharpTests\Tests\obj\x86\Debug\Tests.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\CSharpTests\Tests\obj\x86\Debug\Tests.pdb

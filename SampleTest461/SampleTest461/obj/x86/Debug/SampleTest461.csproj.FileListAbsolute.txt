@@ -1,0 +1,8 @@
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\bin\Debug\SampleTest461.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\bin\Debug\SampleTest461.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\SampleTest461.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\SampleTest461.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\SampleTest461.FrmEncDecrypt.resources
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\SampleTest461\SampleTest461\obj\x86\Debug\GenerateResource.write.1.tlog

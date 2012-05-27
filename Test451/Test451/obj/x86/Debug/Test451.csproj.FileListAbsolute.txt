@@ -1,0 +1,15 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Test451\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\Test451\bin\Debug\Test451.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Test451\bin\Debug\Test451.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Test451\obj\x86\Debug\Test451.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Test451\obj\x86\Debug\Test451.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\Test451\Test451\obj\x86\Debug\Test451.exe
+C:\Users\Student\documents\visual studio 2010\Projects\Test451\Test451\obj\x86\Debug\Test451.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\Test451\Test451\bin\Debug\Test451.exe
+C:\Users\Student\documents\visual studio 2010\Projects\Test451\Test451\bin\Debug\Test451.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\Test451\Test451\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\antlerion\Desktop\Test451\Test451\obj\x86\Debug\Test451.exe
+C:\Users\antlerion\Desktop\Test451\Test451\obj\x86\Debug\Test451.pdb
+C:\Users\antlerion\Desktop\Test451\Test451\bin\Debug\Test451.exe
+C:\Users\antlerion\Desktop\Test451\Test451\bin\Debug\Test451.pdb
+C:\Users\antlerion\Desktop\Test451\Test451\obj\x86\Debug\ResolveAssemblyReference.cache

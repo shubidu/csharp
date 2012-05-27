@@ -1,0 +1,5 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\DateLib\bin\Release\DateLib.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\DateLib\bin\Release\DateLib.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\DateLib\obj\Release\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\DateLib\obj\Release\DateLib.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\DateLib\obj\Release\DateLib.pdb

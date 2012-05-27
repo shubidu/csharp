@@ -1,0 +1,5 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\Delagates\Delagates\bin\Debug\Delagates.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\Delagates\Delagates\bin\Debug\Delagates.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\Delagates\Delagates\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\Delagates\Delagates\obj\x86\Debug\Delagates.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\Delagates\Delagates\obj\x86\Debug\Delagates.pdb

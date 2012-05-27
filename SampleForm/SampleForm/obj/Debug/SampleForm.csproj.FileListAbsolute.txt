@@ -1,0 +1,10 @@
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\bin\Debug\SampleForm.exe
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\bin\Debug\SampleForm.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.MainForm.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.exe
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.MDIForm.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Debug\SampleForm.MDIParent1.resources

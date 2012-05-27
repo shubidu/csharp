@@ -1,0 +1,19 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\bin\Release\Generics.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\bin\Release\Generics.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\Generics.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\Generics.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\Generics.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\Generics.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Generics\obj\Release\Generics.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Generics\Generics\obj\Release\Generics.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Generics\Generics\obj\Release\Generics.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\Generics.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\Generics.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\bin\Release\Generics.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\bin\Release\Generics.pdb
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\ResolveAssemblyReference.cache
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\Generics.Form1.resources
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\Generics.Properties.Resources.resources
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\ResGen.read.1.tlog
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics\obj\Release\ResGen.write.1.tlog

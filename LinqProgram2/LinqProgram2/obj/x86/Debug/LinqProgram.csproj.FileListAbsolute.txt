@@ -1,0 +1,5 @@
+C:\Users\Student\AppData\Local\Temporary Projects\LinqProgram\bin\Debug\LinqProgram.exe
+C:\Users\Student\AppData\Local\Temporary Projects\LinqProgram\bin\Debug\LinqProgram.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\LinqProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\LinqProgram\obj\x86\Debug\LinqProgram.exe
+C:\Users\Student\AppData\Local\Temporary Projects\LinqProgram\obj\x86\Debug\LinqProgram.pdb

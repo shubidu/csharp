@@ -1,0 +1,5 @@
+C:\lang\SplitSentence_lect5_probl2\SplitSentence\bin\Debug\SplitSentence.exe
+C:\lang\SplitSentence_lect5_probl2\SplitSentence\bin\Debug\SplitSentence.pdb
+C:\lang\SplitSentence_lect5_probl2\SplitSentence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\lang\SplitSentence_lect5_probl2\SplitSentence\obj\x86\Debug\SplitSentence.exe
+C:\lang\SplitSentence_lect5_probl2\SplitSentence\obj\x86\Debug\SplitSentence.pdb

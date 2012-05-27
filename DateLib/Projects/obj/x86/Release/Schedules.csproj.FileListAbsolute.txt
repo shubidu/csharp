@@ -1,0 +1,6 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\bin\Release\Projects.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\bin\Release\Projects.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\bin\Release\DateLib.dll
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\obj\x86\Release\Projects.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\DateLib\Projects\obj\x86\Release\Projects.pdb

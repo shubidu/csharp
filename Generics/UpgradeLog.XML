@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Generics">
+</Property><Property Name="Solution File" Value="C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics.sln">
+</Property><Property Name="User Options File" Value="C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Generics.suo">
+</Property><Property Name="Date" Value="13 май 2012 г.">
+</Property><Property Name="Time" Value="15:52 ч.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Generics.sln" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Generics.suo" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics.suo">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Generics.csproj" Description="Project file successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Generics.csproj">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Generics.csproj.user" Description="Project user file successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Generics.csproj.user">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Form1.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Form1.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Program.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Program.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Utility.cs" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Utility.cs">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Properties\Settings.settings" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Form1.resx" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Properties\Resources.resx" Description="File successfully backed up as C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Generics\Backup\Generics\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Generics.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Generics" Source="Generics\Generics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Generics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Generics.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Generics" Source="Generics\Generics.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

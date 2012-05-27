@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryProject", "ClassLibraryProject\ClassLibraryProject.csproj", "{1C8E784B-D519-40DB-A445-7416B35AD233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RidingBicycles", "RidingBicycles\RidingBicycles.csproj", "{21BEC95E-81A3-4B99-AC3D-4C23D49C8D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8E784B-D519-40DB-A445-7416B35AD233}.Debug|x86.ActiveCfg = Debug|x86
+		{1C8E784B-D519-40DB-A445-7416B35AD233}.Debug|x86.Build.0 = Debug|x86
+		{1C8E784B-D519-40DB-A445-7416B35AD233}.Release|x86.ActiveCfg = Release|x86
+		{1C8E784B-D519-40DB-A445-7416B35AD233}.Release|x86.Build.0 = Release|x86
+		{21BEC95E-81A3-4B99-AC3D-4C23D49C8D4B}.Debug|x86.ActiveCfg = Debug|x86
+		{21BEC95E-81A3-4B99-AC3D-4C23D49C8D4B}.Debug|x86.Build.0 = Debug|x86
+		{21BEC95E-81A3-4B99-AC3D-4C23D49C8D4B}.Release|x86.ActiveCfg = Release|x86
+		{21BEC95E-81A3-4B99-AC3D-4C23D49C8D4B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

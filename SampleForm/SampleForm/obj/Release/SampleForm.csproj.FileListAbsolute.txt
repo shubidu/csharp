@@ -1,0 +1,18 @@
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\bin\Release\SampleForm.dll
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\bin\Release\SampleForm.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.MainForm.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.MDIForm.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.MDIParent1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.dll
+C:\Users\Student\AppData\Local\Temporary Projects\SampleForm\obj\Release\SampleForm.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\bin\Release\SampleForm.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\bin\Release\SampleForm.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\SampleForm.LoginControl.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\SampleForm.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\SampleForm.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\SampleForm.dll
+C:\Users\Student\Documents\Visual Studio 2008\Projects\SampleForm\SampleForm\obj\Release\SampleForm.pdb
