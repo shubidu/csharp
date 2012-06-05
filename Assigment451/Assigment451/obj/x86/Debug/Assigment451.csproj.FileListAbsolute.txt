@@ -1,0 +1,9 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\Assigment451.Properties.Resources.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\bin\Debug\Assigment451.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\bin\Debug\Assigment451.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\Assigment451.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\Assigment451.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\Assigment451\Assigment451\obj\x86\Debug\Assigment451.Form1.resources

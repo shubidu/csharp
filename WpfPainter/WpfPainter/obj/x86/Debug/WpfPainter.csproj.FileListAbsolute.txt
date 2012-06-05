@@ -1,0 +1,13 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\bin\Debug\WpfPainter.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\bin\Debug\WpfPainter.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\MainWindow.baml
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\MainWindow.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\App.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\WpfPainter_MarkupCompile.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\WpfPainter.g.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\WpfPainter.Properties.Resources.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\WpfPainter.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfPainter\WpfPainter\obj\x86\Debug\WpfPainter.pdb

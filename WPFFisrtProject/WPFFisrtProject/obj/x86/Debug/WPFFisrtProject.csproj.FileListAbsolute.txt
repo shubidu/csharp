@@ -1,0 +1,13 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\bin\Debug\WPFFisrtProject.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\bin\Debug\WPFFisrtProject.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\MainWindow.baml
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\MainWindow.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\App.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\WPFFisrtProject_MarkupCompile.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\WPFFisrtProject.g.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\WPFFisrtProject.Properties.Resources.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\WPFFisrtProject.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WPFFisrtProject\WPFFisrtProject\obj\x86\Debug\WPFFisrtProject.pdb

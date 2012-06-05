@@ -1,0 +1,32 @@
+D:\WORK\XNAANX\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\WORK\XNAANX\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\Assignment.FrmStart.resources
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\Assignment.Properties.Resources.resources
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\Assignment.pdb
+D:\WORK\XNAANX\Assignment\Assignment\obj\x86\Debug\Assignment.DrawingBoard.resources
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\antlerion\Desktop\Assignment\Assignment\bin\Debug\Assignment461.exe
+C:\Users\antlerion\Desktop\Assignment\Assignment\bin\Debug\Assignment461.pdb
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\Assignment461.DrawingBoard.resources
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\Assignment461.FrmStart.resources
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\Assignment461.Properties.Resources.resources
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\Assignment461.exe
+C:\Users\antlerion\Desktop\Assignment\Assignment\obj\x86\Debug\Assignment461.pdb
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\Assignment461.exe
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\Assignment461.pdb
+C:\Users\antlerion\Desktop\Assignment461\Assignment\bin\Debug\Assignment461.exe
+C:\Users\antlerion\Desktop\Assignment461\Assignment\bin\Debug\Assignment461.pdb
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\Assignment461.DrawingBoard.resources
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\Assignment461.FrmStart.resources
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\Assignment461.Properties.Resources.resources
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\antlerion\Desktop\Assignment461\Assignment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Assignment461\Assignment\obj\x86\Debug\Assignment461.exe
+C:\Users\antlerion\Documents\Visual Studio 2010\Projects\Assignment461\Assignment\obj\x86\Debug\Assignment461.pdb
