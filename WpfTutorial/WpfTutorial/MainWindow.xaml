@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tutorial" Height="149" Width="522">
+    <Grid>
+        <Label Height="25" Width="100" HorizontalContentAlignment="Center"VerticalContentAlignment="Center" Background="Beige">Gosho</Label>
+    </Grid>
+</Window>

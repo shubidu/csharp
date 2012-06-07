@@ -1,0 +1,13 @@
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.pdb
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\MainWindow.baml
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\MainWindow.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\App.g.cs
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\WpfTutorial_MarkupCompile.cache
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\WpfTutorial.g.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\WpfTutorial.Properties.Resources.resources
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\WpfTutorial.exe
+c:\users\antlerion\documents\visual studio 2010\Projects\WpfTutorial\WpfTutorial\obj\x86\Debug\WpfTutorial.pdb

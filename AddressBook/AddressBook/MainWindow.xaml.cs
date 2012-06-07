@@ -30,7 +30,7 @@ namespace AddressBook
         private void btnDelete_Click(object sender, RoutedEventArgs e)
         {
             
-            lvwContacts.Items.Remove((Contact)lvwContacts.SelectedItem);
+            lvwContacts.Items.Remove(lvwContacts.SelectedItem);
             
             
         }

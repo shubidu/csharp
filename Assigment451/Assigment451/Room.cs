@@ -20,9 +20,7 @@ namespace Assigment451
         //copy constructor
         public Room(Room r)
             : this(r.RoomNumber, r.DaysOccupied)
-        {
-
-        }
+        { }
 
 
         //public properties

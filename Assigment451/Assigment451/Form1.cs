@@ -13,7 +13,7 @@ namespace Assigment451
     {
         ICapacity[] rooms = new ICapacity[50];
         int index = 0;
-        static Random rnd = new Random();
+        static Random rnd = new Random(); 
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +22,7 @@ namespace Assigment451
 
         private void btnCreateTourist_Click(object sender, EventArgs e)
         {
-            if (index <= rooms.Length)
+            if (index < rooms.Length)
             {
                 rooms[index++] = new TouristRoom(rnd.Next(1, 101), rnd.Next(1, 101), rnd.Next(1, 4));
 
@@ -31,7 +31,7 @@ namespace Assigment451
 
         private void btnCreateConference_Click(object sender, EventArgs e)
         {
-            if (index <= rooms.Length)
+            if (index < rooms.Length)
             {
                 rooms[index++] = new ConferenceRoom(rnd.Next(1, 101), rnd.Next(1, 11), rnd.Next(50, 101));
             }
@@ -61,11 +61,11 @@ namespace Assigment451
                 {
                     if (item is TouristRoom)
                     { 
-                        lbxView.Items.Add(String.Format("Tourist Room, Number: {1}, Capacity: {0}", item.Capacity,(item as Room).RoomNumber)); 
+                        lbxView.Items.Add(String.Format("Tourist Room, Number: {1}, Beds: {0}", item.Capacity,(item as Room).RoomNumber)); 
                     }
                     else if (item is ConferenceRoom)
                     {
-                        lbxView.Items.Add(String.Format("Conference Room, Number: {1}, Capacity: {0}", item.Capacity, (item as Room).RoomNumber)); 
+                        lbxView.Items.Add(String.Format("Conference Room, Number: {1}, Area: {0}", item.Capacity, (item as Room).RoomNumber)); 
                     }
                 }
             }
